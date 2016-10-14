@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <!-- 自定义popupWindow_WorkingAge -->
+    <style name="AnimBottom" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/popupwindow_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/popupwindow_exit_anim</item>
+    </style>
+
+</resources>

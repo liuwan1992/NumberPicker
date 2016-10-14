@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="popupwindow_background">#E0F0F0F0</color>
+    <color name="numberpicker_line">#F08200</color>
+    <color name="numberpicker_text">#F08200</color>
+    <color name="year">#00A0E9</color>
+    <color name="button_background">#00A0E9</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>
